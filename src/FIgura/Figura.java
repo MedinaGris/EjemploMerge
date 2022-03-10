@@ -9,5 +9,8 @@ package FIgura;
  * @author labso06
  */
 public abstract class Figura {
+    public String getColor(){
+        return ("rojo");
+    }
     
 }
